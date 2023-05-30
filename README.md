@@ -1,1 +1,1 @@
-# Parallel-Programming
+# MPI编程实验
