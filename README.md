@@ -1,1 +1,1 @@
-# Parallel-Programming
+# 期末研究：特殊的高斯消元
